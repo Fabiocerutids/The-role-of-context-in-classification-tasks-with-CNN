@@ -2,7 +2,8 @@
 This GitHub repository explores the enhancement of Convolutional Neural Networks (CNNs) in object classification tasks by mimicking human-like contextual understanding. It addresses the challenge of CNNs struggling to contextualize objects within their environment. The project investigates the influence of contextual information on CNN performance using a subset of the iNaturalist dataset, defining "context" as the surroundings of an animal in an image. 
 Two research questions are the focal points of this project:
 
-RQ1: Does contextual information in pictures help a CNN classifier perform better ?
+RQ1: Does contextual information in pictures help a CNN classifier perform better?
+
 RQ2: If so can we redirect the CNN to better pay attention also to this information (targeted attentional redirection)?
 
 We have divided our notebooks in folders:
