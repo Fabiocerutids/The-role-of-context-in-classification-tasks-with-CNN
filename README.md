@@ -13,6 +13,6 @@ We have divided our notebooks in folders:
 
 3. Utility_notebooks: This directory presents series of notebooks that outline specific tasks that we carried out throughout the analysis. We have the code that we used to extract bonding boxes and mask the animals, together with the code used to reverse the CLIP model and smooth the bonding boxes.
 
-4.Clustering_analysis: This folder contains all of the clustering analysis we ran on the data, both as an exploratory tool and as an inferential one. Also here we have some notebooks that present similar code if not for the data used.
+4. Clustering_analysis: This folder contains all of the clustering analysis we ran on the data, both as an exploratory tool and as an inferential one. Also here we have some notebooks that present similar code if not for the data used.
 
 5. test_results: This directory contains a series of pickle files that once opened give access to a data frame with the predicted labels for each of the test picture form each model. For example: transfer_bbcontent_testresults.pickle contains the label predicted on the test images by the model trained on only the content of the bonding boxes.
